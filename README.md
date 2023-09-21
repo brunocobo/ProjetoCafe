@@ -1,2 +1,2 @@
 # projetoCafe
- Projeto sistema gestão para atividade somativa PUCPR
+ Projeto criado para disciplina de Raciocínio Computacional
