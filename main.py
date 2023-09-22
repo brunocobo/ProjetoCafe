@@ -92,3 +92,4 @@ if __name__ == "__main__":
     system = AcademicSystem()
     system.main_menu()
 
+teste
