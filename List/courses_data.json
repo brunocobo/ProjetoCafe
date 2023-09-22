@@ -1,0 +1,146 @@
+[
+    {
+        "course": "INTRODU\u00c7\u00c3O \u00c0 PROGRAMA\u00c7\u00c3O",
+        "code": 1
+    },
+    {
+        "course": "C\u00c1LCULO I",
+        "code": 2
+    },
+    {
+        "course": "\u00c1LGEBRA LINEAR",
+        "code": 3
+    },
+    {
+        "course": "F\u00cdSICA GERAL",
+        "code": 4
+    },
+    {
+        "course": "HIST\u00d3RIA DA ARTE",
+        "code": 5
+    },
+    {
+        "course": "INGL\u00caS AVAN\u00c7ADO",
+        "code": 6
+    },
+    {
+        "course": "ECONOMIA MICROECON\u00d4MICA",
+        "code": 7
+    },
+    {
+        "course": "QU\u00cdMICA ORG\u00c2NICA",
+        "code": 8
+    },
+    {
+        "course": "DIREITO CONSTITUCIONAL",
+        "code": 9
+    },
+    {
+        "course": "BIOLOGIA CELULAR",
+        "code": 10
+    },
+    {
+        "course": "PSICOLOGIA SOCIAL",
+        "code": 11
+    },
+    {
+        "course": "MARKETING ESTRAT\u00c9GICO",
+        "code": 12
+    },
+    {
+        "course": "\u00c9TICA PROFISSIONAL",
+        "code": 13
+    },
+    {
+        "course": "SOCIOLOGIA URBANA",
+        "code": 14
+    },
+    {
+        "course": "GEST\u00c3O DE PROJETOS",
+        "code": 15
+    },
+    {
+        "course": "ENGENHARIA DE SOFTWARE",
+        "code": 16
+    },
+    {
+        "course": "AN\u00c1LISE DE DADOS",
+        "code": 17
+    },
+    {
+        "course": "ROB\u00d3TICA AVAN\u00c7ADA",
+        "code": 18
+    },
+    {
+        "course": "NEUROCI\u00caNCIA COGNITIVA",
+        "code": 19
+    },
+    {
+        "course": "TEORIA POL\u00cdTICA CONTEMPOR\u00c2NEA",
+        "code": 20
+    },
+    {
+        "course": "DESENVOLVIMENTO WEB AVAN\u00c7ADO",
+        "code": 21
+    },
+    {
+        "course": "ADMINISTRA\u00c7\u00c3O DE BANCO DE DADOS",
+        "code": 22
+    },
+    {
+        "course": "REDES DE COMPUTADORES",
+        "code": 23
+    },
+    {
+        "course": "SEGURAN\u00c7A DA INFORMA\u00c7\u00c3O",
+        "code": 24
+    },
+    {
+        "course": "SISTEMAS OPERACIONAIS",
+        "code": 25
+    },
+    {
+        "course": "INTELIG\u00caNCIA ARTIFICIAL",
+        "code": 26
+    },
+    {
+        "course": "ENGENHARIA DE SOFTWARE",
+        "code": 27
+    },
+    {
+        "course": "AN\u00c1LISE DE ALGORITMOS",
+        "code": 28
+    },
+    {
+        "course": "PROGRAMA\u00c7\u00c3O ORIENTADA A OBJETOS",
+        "code": 29
+    },
+    {
+        "course": "COMPUTA\u00c7\u00c3O EM NUVEM",
+        "code": 30
+    },
+    {
+        "course": "CI\u00caNCIA DE DADOS",
+        "code": 31
+    },
+    {
+        "course": "ROB\u00d3TICA",
+        "code": 32
+    },
+    {
+        "course": "GEST\u00c3O DE PROJETOS DE TI",
+        "code": 33
+    },
+    {
+        "course": "REALIDADE VIRTUAL E AUMENTADA",
+        "code": 34
+    },
+    {
+        "course": "CIBERSEGURAN\u00c7A",
+        "code": 35
+    },
+    {
+        "course": "IOT (INTERNET DAS COISAS)",
+        "code": 36
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "enrollment_code": 12,
+        "student_code": 12,
+        "class_code": 12
+    },
+    {
+        "enrollment_code": 4,
+        "student_code": 4,
+        "class_code": 13
+    },
+    {
+        "enrollment_code": 2,
+        "student_code": 2,
+        "class_code": 1
+    },
+    {
+        "enrollment_code": 18,
+        "student_code": 18,
+        "class_code": 1
+    },
+    {
+        "enrollment_code": 10224904,
+        "student_code": 10224904,
+        "class_code": 99
+    }
+]

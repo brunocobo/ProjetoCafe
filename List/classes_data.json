@@ -1,0 +1,32 @@
+[
+    {
+        "class_code": 1,
+        "professor": "Amanda Brown",
+        "discipline": "NEUROCIÊNCIA COGNITIVA"
+    },
+    {
+        "class_code": 22,
+        "professor": "Christopher Rivera",
+        "discipline": "IOT (INTERNET DAS COISAS)"
+    },
+    {
+        "class_code": 13,
+        "professor": "Sarah Williams",
+        "discipline": "ROBÓTICA"
+    },
+    {
+        "class_code": 99,
+        "professor": "Jade Estrada",
+        "discipline": "DESENVOLVIMENTO WEB AVANÇADO"
+    },
+    {
+        "class_code": 12,
+        "professor": "Robert Turner",
+        "discipline": "INTELIGÊNCIA ARTIFICIAL"
+    },
+    {
+        "class_code": 10,
+        "professor": "Jade Estrada",
+        "discipline": "ANÁLISE DE DADOS"
+    }
+]

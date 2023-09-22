@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Amanda Brown",
+        "code": 1,
+        "cpf": "25813370366"
+    },
+    {
+        "name": "Christopher Rivera",
+        "code": 2,
+        "cpf": "57885426424"
+    },
+    {
+        "name": "Amy Davis",
+        "code": 3,
+        "cpf": "21570932654"
+    },
+    {
+        "name": "Martin Macdonald",
+        "code": 4,
+        "cpf": "47457069798"
+    },
+    {
+        "name": "Jade Estrada",
+        "code": 5,
+        "cpf": "71391665953"
+    },
+    {
+        "name": "Robert Turner",
+        "code": 6,
+        "cpf": "98306491130"
+    },
+    {
+        "name": "Sarah Williams",
+        "code": 7,
+        "cpf": "71506462120"
+    },
+    {
+        "name": "RACHAEL CARTER",
+        "code": 8,
+        "cpf": "44292785120"
+    }
+]
