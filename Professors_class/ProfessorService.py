@@ -267,4 +267,3 @@ class ProfessorService:
                 return proceed == 's'
             else:
                 print('Opção inválida. Digite "S" para continuar ou "N" para sair.')
-

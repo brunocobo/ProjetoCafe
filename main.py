@@ -91,3 +91,5 @@ if __name__ == "__main__":
     # Cria uma instância da classe AcademicSystem e inicia o menu principal.
     system = AcademicSystem()
     system.main_menu()
+
+testett
